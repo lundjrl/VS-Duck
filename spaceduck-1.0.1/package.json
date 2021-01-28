@@ -1,0 +1,21 @@
+{
+    "name": "spaceduck",
+    "displayName": "Spaceduck",
+    "description": "An intergalactic space theme for Vim, Terminal, & more!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spaceduck",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spaceduck-color-theme.json"
+            }
+        ]
+    }
+}
