@@ -2,7 +2,7 @@
 A VSclone of the Spaceduck project
 
 
-![Config image](https://github.com/lundjrl/DotFilez/blob/master/Screen Shot 2021-01-28 at 5.01.56 PM.png)
+![Config image](https://github.com/lundjrl/DotFilez/blob/master/rn-example.png)
 
 Go easy on me...
 This is my first custom VScode theme. 
